@@ -21,4 +21,4 @@ težinu.
 U klasama Chocolate i Wine, potrebno je napraviti parametrizovane konstruktore za kreiranje
 objekata. Potrebno je, takođe, u klasama redefinisati metodu str za prikaz informacija o objektu.
 
-![alt text](https://prnt.sc/wqdmxc)
+![alt text](https://github.com/kaltake00/products/blob/main/image.png)
